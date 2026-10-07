@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/c:\\Users\\basil\\Visual Studio Code Projects\\laboratory-work\\1 course\\1.1.4\\lab.aux": true,
+        "**/c:\\Users\\basil\\Visual Studio Code Projects\\laboratory-work\\1 course\\1.1.4\\lab.log": true,
+        "**/c:\\Users\\basil\\Visual Studio Code Projects\\laboratory-work\\1 course\\1.1.4\\lab.gz": true,
+        "**/c:\\Users\\basil\\Visual Studio Code Projects\\laboratory-work\\1 course\\1.1.4\\lab.out": true
+    }
+}
